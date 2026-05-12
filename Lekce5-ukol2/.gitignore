@@ -1,0 +1,5 @@
+.env
+.venv/
+__pycache__/
+demo-app/node_modules/
+demo-app/dist/
